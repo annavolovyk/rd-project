@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="UI Tests">
+
+    <test name="UI">
+        <packages>
+            <package name="uitests"/>
+        </packages>
+        <classes>
+            <class name="uitestschrome.KanboardLoginTests"/>
+            <class name="uitestschrome.KanboardCreateProjectTests"/>
+            <class name="uitestschrome.KanboardAddCommentsTests"/>
+            <class name="uitestschrome.KanboardCloseTaskTest"/>
+            <class name="uitestschrome.KanboardCreateTaskTest"/>
+      </classes>
+    </test>
+</suite>
