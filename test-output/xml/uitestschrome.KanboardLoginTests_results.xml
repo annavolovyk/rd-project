@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rd-project"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4,841">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testLogin"
+                time="1,278"
+                classname="uitestschrome.KanboardLoginTests">
+            </testcase>
+            <testcase
+                name="testInvalidUsername"
+                time="1,460"
+                classname="uitestschrome.KanboardLoginTests">
+            </testcase>
+            <testcase
+                name="testInvalidCredentials"
+                time="2,103"
+                classname="uitestschrome.KanboardLoginTests">
+            </testcase>
+</testsuite>
