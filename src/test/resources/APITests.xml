@@ -6,9 +6,7 @@
             <package name="APITests"/>
         </packages>
         <classes>
-            <class name=""/>
-            <class name=""/>
-            <class name=""/>
+            <class name="apitests.APITests"/>
         </classes>
     </test>
 </suite>
